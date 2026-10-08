@@ -53,7 +53,5 @@ For each skill, the planner replays events in event-time order, estimates master
 
 This is a local demo, not an authenticated multi-tenant service. Before public deployment, add identity and authorization, migrations, rate limits, observability, data retention controls, and stronger exercise validation. Runtime databases and credentials are ignored by Git.
 
-## License
 
-MIT. Synthetic content only; no user or Preply data.
 
